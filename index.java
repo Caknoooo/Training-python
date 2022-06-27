@@ -30,6 +30,6 @@ public class index{
 
 		System.out.println("Name Product : " + nama_barang);
 		System.out.println("Price total : " + (price * much));
- 
+        System.out.println("Kelar");
 	}
 }
